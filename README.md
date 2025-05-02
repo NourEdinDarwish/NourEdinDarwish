@@ -2,10 +2,4 @@
 
 R language enthusiast passionate about data analysis and visualization.
 
-## My GitHub Contribution Breakdown
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NourEdinDarwish&show_icons=true&theme=dark&hide_title=true&hide_rank=true&include_all_commits=true&custom_title=null">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=NourEdinDarwish&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&custom_title=null">
-  <img alt="GitHub contribution stats" src="https://github-readme-stats.vercel.app/api?username=NourEdinDarwish&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&custom_title=null">
-</picture>
+![Metrics](https://metrics.lecoq.io/NourEdinDarwish?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&activity=1&achievements=1&notable=1&isocalendar.duration=half-year&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=UTC)
