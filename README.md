@@ -1,17 +1,11 @@
-# 👋 Hi, I'm Nour Edin Darwish
+# Hi, I'm Nour Edin Darwish
 
-## About Me
-R enthusiast with a passion for data analysis and visualization. I enjoy working with statistical models and creating insights from complex datasets.
+R language enthusiast passionate about data analysis and visualization.
 
-<!-- Feel free to customize this section with your own information -->
-- 🔭 I'm currently working on improving my R programming skills
-- 🌱 I'm learning advanced statistical analysis techniques
+## My GitHub Contribution Breakdown
 
-
-## My GitHub Stats
-
-![Nour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NourEdinDarwish&show_icons=true&theme=radical&count_private=true)
-
-## Contribution Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NourEdinDarwish&theme=radical)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NourEdinDarwish&show_icons=true&theme=dark&hide_title=true&hide_rank=true&include_all_commits=true&custom_title=null">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=NourEdinDarwish&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&custom_title=null">
+  <img alt="GitHub contribution stats" src="https://github-readme-stats.vercel.app/api?username=NourEdinDarwish&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&custom_title=null">
+</picture>
